@@ -1,0 +1,1 @@
+Its a simple voting app based on sinatra i did as a way of learning and sharpening my skills, its really basic though nothing new
